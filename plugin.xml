@@ -25,6 +25,7 @@
 			</feature>
 		</config-file>
 		<header-file src="src/ios/Flurry.h" />
+		<header-file src="src/ios/FlurryConsent.h" />
 		<header-file src="src/ios/FlurryPlugin.h" />
 		<source-file src="src/ios/FlurryPlugin.m" />
 		<header-file src="src/ios/FlurrySessionBuilder.h" />
