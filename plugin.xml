@@ -28,7 +28,6 @@
 		<header-file src="src/ios/FlurryPlugin.h" />
 		<source-file src="src/ios/FlurryPlugin.m" />
 		<header-file src="src/ios/FlurrySessionBuilder.h" />
-    <source-file src="src/ios/libFlurry.a" framework="true" />
 		<framework src="SystemConfiguration.framework" />
 		<framework src="CFNetwork.framework" />
 		<framework src="Security.framework" />
